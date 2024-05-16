@@ -4,3 +4,7 @@ based on manually curated dataset by taking into consideration ceratin viable pa
 raising an alert and sending to the emergency contacts of the user. This is basically a research and development project that I worked upon 
 along with my team. The machine Learning Algorithm that we used was Random Forest Classifier . We generalized the code using Python and its useful libraries 
 which in turn helped significantly in proceeding with the project.
+
+
+Author - Soumik Ghosh.
+
