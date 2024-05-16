@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html >
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+<head>
+  <meta charset="UTF-8">
+  <title>Alert API</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<style>
+    .btn
+    {
+        border-radius:50px;
+    }
+
+
+
+</style>
+
+<body>
+ <div class="login">
+	<h1 style=" font-family:'Times New Roman';">--- Alert Generation ---</h1>
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <form action="{{ url_for('predict')}}"method="post">
+        <input type="text" name="alert threshold" placeholder="session duration" required="required" /><br>
+    	<input type="text" name="purpose of work" placeholder="purpose of work" required="required" /><br>
+        <input type="text" name="alert threshold" placeholder="alert threshold" required="required" /><br>
+		<input type="text" name="day of the week" placeholder="day of the week" required="required" /><br>
+        <input type="text" name="time of the day" placeholder="time of the day" required="required" /><br>
+        <input type="text" name="weather condition" placeholder="weather condition" required="required" /><br>
+        <input type="text" name="limit" placeholder="limit" required="required" /><br>
+        <input type="text" name="Actual Time Taken" placeholder="Actual Time Taken" required="required" /><br>
+        <button type="button" class="btn btn-primary btn-block btn-large">Predict</button>
+    </form>
+
+   <br>
+   <br>
+   {{ prediction_text }}
+
+ </div>
+
+
+</body>
+</html>
