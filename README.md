@@ -6,7 +6,7 @@
  <figure>
   <figcaption><b><i>User Interface</i></b></figcaption><br>
    <br>
-  <img src="Pictorial-Representation/Interface.png" height="350" width="350" >
+  <img src="Pictorial-Representation/Interface_final.png" height="350" width="350" >
 </figure>
  <br>
  <br>
