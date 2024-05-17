@@ -36,6 +36,6 @@ Useful for predicting future values or identifying patterns in time series dat
 So, accordingly we chose this model and proceeded forward in working with these model for our project.
 
 
-Author - Soumik Ghosh.
+
 Author - Soumik Ghosh.
 
