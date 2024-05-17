@@ -32,6 +32,10 @@ We decide many such works were to be mentioned in the workspace according to var
 for each such acitvity . An active session duration calculator would calculate the real time required for an acitivity, which will be matched with the threshold set previously
 for each such activity, if the time tracked will be equal or approximately around a limit for  a particular threshold then the alert won't be generated but if that is exceeded
 then the alert is going to be generated.
+<figure>
+  <figcaption>Tree Plot</figcaption>
+  <img src="Pictorial-Representation/Tree%20Plot.png" height="250" width="250" >  
+</figure>
 
 Among these various models, the accuracy was the most for the Random Forest Classifier model which was equal to : Accuracy: 97.368   : 
 
