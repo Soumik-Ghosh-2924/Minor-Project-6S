@@ -1,4 +1,4 @@
-                                                         <head> REAL TIME SESSION MONITORING SYSTEM </head>
+                                                                              REAL TIME SESSION MONITORING SYSTEM 
 
 
 This is the repository for the Minor Project that I undertook in the 6th Semester of my college .
@@ -8,11 +8,11 @@ raising an alert and sending to the emergency contacts of the user. This is basi
 along with my team. The machine Learning Algorithm that we used was Random Forest Classifier . We generalized the code using Python and its useful libraries 
 which in turn helped significantly in proceeding with the project.
     
-<figure>
-  <figcaption align = "center"> Tree Plot </figcaption>
-  <p>
-  <img src = "Pictorial-Representation/Tree%20Plot.png" height= "250" width="250" align="Center">
+<figure style="text-align: center;">
+  <img src="Pictorial-Representation/Tree%20Plot.png" height="250" width="250" style="display: block; margin: 0 auto;">
+  <figcaption style="text-align: center; font: Times New Roman">Tree Plot</figcaption>
 </figure>
+
 
   
 The idea behind the project was to create an application system that would be tracking the real time data for an user who belongs to the Divyang community. 
