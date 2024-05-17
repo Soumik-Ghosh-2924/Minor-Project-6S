@@ -1,4 +1,4 @@
-                                                                              REAL TIME SESSION MONITORING SYSTEM 
+                                                                  REAL TIME SESSION MONITORING SYSTEM 
 
 
 This is the repository for the Minor Project that I undertook in the 6th Semester of my college .
@@ -7,14 +7,18 @@ based on manually curated dataset by taking into consideration ceratin viable pa
 raising an alert and sending to the emergency contacts of the user. This is basically a research and development project that I worked upon 
 along with my team. The machine Learning Algorithm that we used was Random Forest Classifier . We generalized the code using Python and its useful libraries 
 which in turn helped significantly in proceeding with the project.
-    
+ <br>
+ <br>
+ <br>
+ <br>
 <figure style="text-align: center;">
   <img src="Pictorial-Representation/Tree%20Plot.png" height="250" width="250" style="display: block; margin: 0 auto;">
   <figcaption style="text-align: center; font: Times New Roman">Tree Plot</figcaption>
 </figure>
-
-
-  
+<br>
+<br>
+<br>
+<br>
 The idea behind the project was to create an application system that would be tracking the real time data for an user who belongs to the Divyang community. 
 The plan was to build up a dataset based on real time situations that might occur in our everyday life and then considering the best among those parameters.
 We decide many such works were to be mentioned in the workspace according to various needs for a common individual and we decided to set a particular time threshold 
