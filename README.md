@@ -49,20 +49,20 @@ Among these various models, the accuracy was the most for the Random Forest Clas
 <br>
 <br>
 <br>
-Isolation Forest: Final Accuracy : 23.684
+Isolation Forest:  (Accuracy_if: 23.684)
 <br>
-Efficient for detecting anomalies or outliers in data.
-Well-suited for situations where the majority of the data is normal, and anomalies are rare.
+Efficient for detecting anomalies or outliers in data.<br>
+Well-suited for situations where the majority of the data is normal, and anomalies are rare.<br>
 <br>
 <br>
 <br>
 <br>
 
-Random Forest:  Accuracy: 97.368
+Random Forest:  (Accuracy_rf: 97.368)
 <br>
-Versatile for both classification and regression tasks.
-Can handle a mix of numerical and categorical features.
-Robust and less prone to overfitting.
+Versatile for both classification and regression tasks.<br>
+Can handle a mix of numerical and categorical features.<br>
+Robust and less prone to overfitting.<br>
 <br>
 <br>
 <br>
