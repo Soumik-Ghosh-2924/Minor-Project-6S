@@ -4,7 +4,7 @@
  <br>
 
  <figure>
-  <figcaption><b>User Interface</b></figcaption><br>
+  <figcaption><b><i>User Interface</i></b></figcaption><br>
    <br>
   <img src="Pictorial-Representation/Interface.png" height="350" width="350" >
 </figure>
@@ -40,7 +40,7 @@ then the alert is going to be generated.
 <br>
 <br>
 <figure>
-  <figcaption><b><i><u>Tree Plot</u></i></b></figcaption><br>
+  <figcaption><b><i>Tree Plot</i></b></figcaption><br>
   <br>
   <img src="Pictorial-Representation/Tree%20Plot.png" height="350" width="350" >  
 </figure>
