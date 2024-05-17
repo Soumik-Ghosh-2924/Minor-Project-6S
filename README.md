@@ -16,7 +16,7 @@ which in turn helped significantly in proceeding with the project.
       margin : 20px;
     }
     </style>
-</head>head>
+</head>
     
 <figure>
   <figcaption> Tree Plot </figcaption>
