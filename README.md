@@ -11,16 +11,22 @@ which in turn helped significantly in proceeding with the project.
  <br>
  <br>
  <br>
+
+ <figure>
+  <t><figcaption>User Interface</figcaption></t>
+  <t><img src="Pictorial-Representation/Interface.png" height="250" width="250" ></t>  
+</figure>
+
+ <br>
+ <br>
+ <br>
  
 <figure>
   <figcaption>Tree Plot</figcaption>
   <img src="Pictorial-Representation/Tree%20Plot.png" height="250" width="250" >  
 </figure>
 
-<figure>
-  <figcaption>Tree Plot</figcaption>
-  <img src="Pictorial-Representation/Interface.png" height="250" width="250" >  
-</figure>
+
 
 <br>
 <br>
