@@ -5,6 +5,9 @@ raising an alert and sending to the emergency contacts of the user. This is basi
 along with my team. The machine Learning Algorithm that we used was Random Forest Classifier . We generalized the code using Python and its useful libraries 
 which in turn helped significantly in proceeding with the project.
 
+![Tree Plot](https://github.com/Soumik-Ghosh-2924/Minor-Project-6S/assets/115470141/9e372964-e457-4c5e-be17-a3fdb1cef28a)
+
+
 The idea behind the project was to create an application system that would be tracking the real time data for an user who belongs to the Divyang community. 
 The plan was to build up a dataset based on real time situations that might occur in our everyday life and then considering the best among those parameters.
 We decide many such works were to be mentioned in the workspace according to various needs for a common individual and we decided to set a particular time threshold 
