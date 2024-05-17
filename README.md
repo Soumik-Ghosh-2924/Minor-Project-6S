@@ -7,7 +7,17 @@ based on manually curated dataset by taking into consideration ceratin viable pa
 raising an alert and sending to the emergency contacts of the user. This is basically a research and development project that I worked upon 
 along with my team. The machine Learning Algorithm that we used was Random Forest Classifier . We generalized the code using Python and its useful libraries 
 which in turn helped significantly in proceeding with the project.
-
+<head>
+  <style>
+    figure
+    {
+      display: inline block;
+      text-align : center;
+      margin : 20px;
+    }
+    <style>
+  <head>
+    
 <figure>
   <figcaption> Tree Plot </figcaption>
   <img src = "Pictorial-Representation/Tree%20Plot.png" height= "250" width="250">
