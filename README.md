@@ -45,21 +45,28 @@ then the alert is going to be generated.
 <br>
 <br>
 Among these various models, the accuracy was the most for the Random Forest Classifier model which was equal to : Accuracy: 97.368   : 
-
-
+<br>
+<br>
+<br>
+<br>
 Isolation Forest: Final Accuracy : 23.684
-
+<br>
 Efficient for detecting anomalies or outliers in data.
 Well-suited for situations where the majority of the data is normal, and anomalies are rare.
-
-
+<br>
+<br>
+<br>
+<br>
 
 Random Forest:  Accuracy: 97.368
-
+<br>
 Versatile for both classification and regression tasks.
 Can handle a mix of numerical and categorical features.
 Robust and less prone to overfitting.
-
+<br>
+<br>
+<br>
+<br>
 
 So, accordingly we chose this model and proceeded forward in working with these model for our project.
 
