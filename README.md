@@ -12,10 +12,8 @@ which in turn helped significantly in proceeding with the project.
  <br>
  <br>
 <figure>
-  <center>
     <img src="Pictorial-Representation/Tree%20Plot.png" height="250" width="250">
-    <figcaption>Tree Plot</figcaption>
-  </center>
+    <figcaption style="text-align : center">Tree Plot</figcaption>
 </figure>
 
 <br>
