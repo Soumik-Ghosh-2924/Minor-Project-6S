@@ -4,7 +4,7 @@
  <br>
 
  <figure>
-  <t><figcaption>User Interface</figcaption></t>
+  <figcaption>                                                                        User Interface                                      </figcaption><br>
    <br>
   <t><img src="Pictorial-Representation/Interface.png" height="350" width="350" ></t>  
 </figure>
