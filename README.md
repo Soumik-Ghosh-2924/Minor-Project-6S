@@ -15,8 +15,8 @@ which in turn helped significantly in proceeding with the project.
       text-align : center;
       margin : 20px;
     }
-    <style>
-  <head>
+    </style>
+</head>head>
     
 <figure>
   <figcaption> Tree Plot </figcaption>
