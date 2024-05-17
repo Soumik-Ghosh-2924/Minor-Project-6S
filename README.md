@@ -14,7 +14,8 @@ which in turn helped significantly in proceeding with the project.
 
  <figure>
   <t><figcaption>User Interface</figcaption></t>
-  <t><img src="Pictorial-Representation/Interface.png" height="250" width="250" ></t>  
+   <br>
+  <t><img src="Pictorial-Representation/Interface.png" height="350" width="350" ></t>  
 </figure>
 
  <br>
@@ -22,8 +23,8 @@ which in turn helped significantly in proceeding with the project.
  <br>
  
 <figure>
-  <figcaption>Tree Plot</figcaption>
-  <img src="Pictorial-Representation/Tree%20Plot.png" height="250" width="250" >  
+  <figcaption>Piechart Distribution</figcaption>
+  <img src="Pictorial-Representation/PieChart.png" height="350" width="350" >  
 </figure>
 
 
@@ -38,11 +39,14 @@ We decide many such works were to be mentioned in the workspace according to var
 for each such acitvity . An active session duration calculator would calculate the real time required for an acitivity, which will be matched with the threshold set previously
 for each such activity, if the time tracked will be equal or approximately around a limit for  a particular threshold then the alert won't be generated but if that is exceeded
 then the alert is going to be generated.
+<br>
+<br>
 <figure>
   <figcaption>Tree Plot</figcaption>
-  <img src="Pictorial-Representation/Tree%20Plot.png" height="250" width="250" >  
+  <img src="Pictorial-Representation/Tree%20Plot.png" height="350" width="350" >  
 </figure>
-
+<br>
+<br>
 Among these various models, the accuracy was the most for the Random Forest Classifier model which was equal to : Accuracy: 97.368   : 
 
 
