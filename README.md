@@ -6,7 +6,7 @@
  <figure>
   <figcaption>                                                                        User Interface                                      </figcaption><br>
    <br>
-  <t><img src="Pictorial-Representation/Interface.png" height="350" width="350" ></t>  
+  <img src="Pictorial-Representation/Interface.png" height="350" width="350" >
 </figure>
  <br>
  <br>
@@ -22,7 +22,7 @@ which in turn helped significantly in proceeding with the project.
  <br>
  
 <figure>
-  <figcaption>Piechart Distribution</figcaption><br>
+  <figcaption>Piechart Distribution<br></figcaption><br>
   <img src="Pictorial-Representation/PieChart.png" height="350" width="350" >  
 </figure>
 
@@ -39,7 +39,7 @@ then the alert is going to be generated.
 <br>
 <br>
 <figure>
-  <figcaption>Tree Plot</figcaption><br>
+  <figcaption>Tree Plot<br></figcaption>
   <img src="Pictorial-Representation/Tree%20Plot.png" height="350" width="350" >  
 </figure>
 <br>
